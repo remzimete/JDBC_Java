@@ -1,4 +1,4 @@
-# Java_JDBC
+﻿# Java_JDBC
 JDBC_Practices
 
 ----
@@ -11,5 +11,6 @@ Console Application Basic Query JDBC Application 1
 
 
 ----
-Burada yazılacak olan kodlar 
-Java - JDBC ile alakalı olacaktır.
+
+
+the code i wroten here, it will be about JDBC applications
