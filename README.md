@@ -13,4 +13,4 @@ Console Application Basic Query JDBC Application 1
 ----
 
 
-the code i wroten here, it will be about JDBC applications
+the code i written here, it will be about JDBC applications
